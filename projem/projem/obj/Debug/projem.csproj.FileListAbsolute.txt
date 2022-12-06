@@ -1,0 +1,58 @@
+f:\onedrive\belgeler\visual studio 2015\Projects\projem\projem\bin\Debug\projem.exe.config
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form1.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form3.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Properties.Resources.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\bin\Debug\projem.exe
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\bin\Debug\projem.pdb
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form4.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.exe
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.pdb
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form5.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form6.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form7.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form10.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form8.resources
+F:\OneDrive\Belgeler\Visual Studio 2015\Projects\projem\projem\obj\Debug\projem.Form9.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\bin\Debug\projem.exe.config
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.exe
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.pdb
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\bin\Debug\projem.exe
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\bin\Debug\projem.pdb
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form1.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form10.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form3.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form4.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form5.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form6.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form7.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form8.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form9.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Properties.Resources.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form11.resources
+F:\OneDrive\Masaüstü\1196706005-Yusuf-Güner\projem\projem\obj\Debug\projem.Form12.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.exe
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.pdb
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\bin\Debug\projem.exe.config
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\bin\Debug\projem.exe
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\bin\Debug\projem.pdb
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.csprojResolveAssemblyReference.cache
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form1.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form10.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form11.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form12.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form3.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form4.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form5.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form6.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form7.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form8.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Form9.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.Properties.Resources.resources
+F:\OneDrive\Masaüstü\Projeler\1196706005-Yusuf-Güner-Galeri\projem\projem\obj\Debug\projem.csproj.GenerateResource.Cache
+F:\OneDrive\Masaüstü\projem\projem\bin\Debug\projem.exe.config
+F:\OneDrive\Masaüstü\projem\projem\obj\Debug\projem.exe
+F:\OneDrive\Masaüstü\projem\projem\obj\Debug\projem.pdb
